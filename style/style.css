@@ -78,7 +78,7 @@ nav {
 }
 .advantages_item {
     width: 30%;
-    
+
 }
 footer {
     width: 100%;
@@ -232,7 +232,7 @@ footer p {
 }
 .forma {
     width: 50%;
-    margin: 50px auto;    
+    margin: 50px auto;
 }
 .feedback {
     color: #000;
@@ -337,11 +337,11 @@ nav {
     }
 .advantages_item {
         width: 45%;
-    }   
+    }
     .foto-item {
         width: 45%;
         margin-left: 10px;
-    }   
+    }
     .blog-container {
         width: 28rem;
     }
@@ -380,7 +380,7 @@ nav {
     }
     .blog-cover {
     background-position: center;
-    
+
 }
     .services_container {
     grid-template-columns: auto;
